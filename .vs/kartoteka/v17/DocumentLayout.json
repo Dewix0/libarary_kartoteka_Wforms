@@ -1,0 +1,72 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projects\\Projects\\kartoteka\\kartoteka\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3B057788-9C1D-452C-9A28-D2C07E800268}|kartoteka\\kartoteka.csproj|C:\\Projects\\Projects\\kartoteka\\kartoteka\\kartoteka\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B057788-9C1D-452C-9A28-D2C07E800268}|kartoteka\\kartoteka.csproj|solutionrelative:kartoteka\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B057788-9C1D-452C-9A28-D2C07E800268}|kartoteka\\kartoteka.csproj|c:\\projects\\projects\\kartoteka\\kartoteka\\kartoteka\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3B057788-9C1D-452C-9A28-D2C07E800268}|kartoteka\\kartoteka.csproj|solutionrelative:kartoteka\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B057788-9C1D-452C-9A28-D2C07E800268}|kartoteka\\kartoteka.csproj|C:\\Projects\\Projects\\kartoteka\\kartoteka\\kartoteka\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B057788-9C1D-452C-9A28-D2C07E800268}|kartoteka\\kartoteka.csproj|solutionrelative:kartoteka\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 229,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "book.cs",
+              "DocumentMoniker": "C:\\Projects\\Projects\\kartoteka\\kartoteka\\kartoteka\\book.cs",
+              "RelativeDocumentMoniker": "kartoteka\\book.cs",
+              "ToolTip": "C:\\Projects\\Projects\\kartoteka\\kartoteka\\kartoteka\\book.cs",
+              "RelativeToolTip": "kartoteka\\book.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T09:03:37.889Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Projects\\Projects\\kartoteka\\kartoteka\\kartoteka\\Form1.cs",
+              "RelativeDocumentMoniker": "kartoteka\\Form1.cs",
+              "ToolTip": "C:\\Projects\\Projects\\kartoteka\\kartoteka\\kartoteka\\Form1.cs",
+              "RelativeToolTip": "kartoteka\\Form1.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAADwv1wBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T08:12:53.855Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Projects\\Projects\\kartoteka\\kartoteka\\kartoteka\\Form1.cs",
+              "RelativeDocumentMoniker": "kartoteka\\Form1.cs",
+              "ToolTip": "C:\\Projects\\Projects\\kartoteka\\kartoteka\\kartoteka\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "kartoteka\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T08:12:42.436Z",
+              "IsPinned": true,
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
